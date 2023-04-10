@@ -1,1 +1,1 @@
-# landing-page-proj
+# This repository includes the HTML and CSS files for the Landing Page Project from The Odin Project platform.
